@@ -1,0 +1,8 @@
+spring.application.name=product-service
+server.port=8080
+
+spring.datasource.url=jdbc:postgresql://localhost:1234/product_service_db
+spring.datasource.username=username
+spring.datasource.password=password
+
+spring.jpa.hibernate.ddl-auto=none
